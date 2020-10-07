@@ -1,0 +1,20 @@
+.sprite{background:url(../images/icon-sprite-v1.png) no-repeat;}
+.success-icon{width:25px; height:25px; background-position:-1px -1px;}
+.fail-icon{width:25px; height:25px; background-position:-31px -1px;}
+.user-detail-icon{width:40px; height:40px; background-position:-64px 0px;}
+.upload-icon{width:15px; height:15px; background-position:-114px -1px;}
+.add-new-icon{width:15px; height:15px; background-position:-135px -1px;}
+.search-icon{width:17px; height:15px; margin-top: -1px; background-position:-152px -1px;}
+.edit-icon{width:17px; height:16px; background-position:-5px -38px;}
+.lock-icon{width:17px; height:17px; background-position:-24px -36px;}
+.active-icon{width:17px; height:17px; background-position:-26px -60px;}
+.deactive-icon{width:17px; height:17px; background-position:-1px -60px;}
+.view-icon{width:17px; height:17px; background-position:-43px -39px;}
+.number-icon{width:17px; height:17px; background-position:-50px -61px;}
+.add-icon{width:17px; height:17px; background-position:-1px -83px;}
+.missed-icon{width:13px; height:13px; background-position:-174px -3px;}
+.enquiry-icon{width:17px; height:17px; background-position:-72px -48px;} 
+.export-icon{width:13px; height:13px; background-position:-188px -1px;}
+.manager-view-icon{width:17px; height:17px; background-position:-90px -47px;}
+.manager-view-icon-disable{width:17px; height:17px; background-position:-90px -47px; opacity: 0.5;}
+.addHierarchy-icon{width:17px; height:17px; background-position:-26px -83px;}
